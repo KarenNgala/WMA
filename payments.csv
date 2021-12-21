@@ -1,0 +1,5 @@
+paymentId, user_status, payment_status
+1, is_premium, paid
+2, is_premium, paid
+3, is_standard, not_paid
+4, is_premium, paid
